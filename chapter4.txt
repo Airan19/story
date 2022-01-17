@@ -1,0 +1,3 @@
+Now github is becoming interesting for me.
+At first I found git to be slightly unbearable and hard to understand.
+But the case is opposite now.
